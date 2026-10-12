@@ -1,0 +1,22 @@
+{
+  "shape": [
+    1,
+    28,
+    28,
+    1
+  ],
+  "scale": 0.003921568859368563,
+  "zero_point": -128,
+  "labels": [
+    "T-shirt/top",
+    "Trouser",
+    "Pullover",
+    "Dress",
+    "Coat",
+    "Sandal",
+    "Shirt",
+    "Sneaker",
+    "Bag",
+    "Ankle boot"
+  ]
+}
