@@ -1,11 +1,11 @@
 True_label,Predicted_label,Correct,Desktop_invoke_ms
-T-shirt/top,T-shirt/top,True,0.12939999942318536
-Trouser,Trouser,True,0.04489999992074445
-Pullover,Pullover,True,0.04149999949731864
-Dress,Dress,True,0.04180000178166665
-Coat,Coat,True,0.040899998566601425
-Sandal,Sandal,True,0.04099999932805076
-Shirt,T-shirt/top,False,0.040099999750964344
-Sneaker,Sneaker,True,0.03989999822806567
-Bag,Bag,True,0.03980000110459514
-Ankle boot,Ankle boot,True,0.03989999822806567
+T-shirt/top,T-shirt/top,True,0.13979999857838266
+Trouser,Trouser,True,0.04749999789055437
+Pullover,Pullover,True,0.049100002797786146
+Dress,Dress,True,0.042499999835854396
+Coat,Coat,True,0.042499999835854396
+Sandal,Sandal,True,0.041200000850949436
+Shirt,T-shirt/top,False,0.041200000850949436
+Sneaker,Sneaker,True,0.04100000296602957
+Bag,Bag,True,0.04029999763588421
+Ankle boot,Ankle boot,True,0.04160000025876798

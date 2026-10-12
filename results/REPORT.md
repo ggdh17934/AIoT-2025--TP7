@@ -8,16 +8,16 @@ exported to src/image_data.h. Input shape is [1, 28, 28, 1].
 
 | True class | Prediction | Correct? | Desktop invoke ms |
 |---|---|---|---|
-| T-shirt/top | T-shirt/top | True | 0.129 |
-| Trouser | Trouser | True | 0.045 |
-| Pullover | Pullover | True | 0.041 |
+| T-shirt/top | T-shirt/top | True | 0.140 |
+| Trouser | Trouser | True | 0.047 |
+| Pullover | Pullover | True | 0.049 |
 | Dress | Dress | True | 0.042 |
-| Coat | Coat | True | 0.041 |
+| Coat | Coat | True | 0.042 |
 | Sandal | Sandal | True | 0.041 |
-| Shirt | T-shirt/top | False | 0.040 |
-| Sneaker | Sneaker | True | 0.040 |
+| Shirt | T-shirt/top | False | 0.041 |
+| Sneaker | Sneaker | True | 0.041 |
 | Bag | Bag | True | 0.040 |
-| Ankle boot | Ankle boot | True | 0.040 |
+| Ankle boot | Ankle boot | True | 0.042 |
 
 This is a ten-image **desktop** inference check, not a full-dataset accuracy
 evaluation and not ESP32 latency. Firmware uses the same model and image bytes,
